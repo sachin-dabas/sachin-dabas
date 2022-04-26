@@ -10,7 +10,7 @@ I am currently pursuing a MS in Sustainable Design and Machine Learning from Car
 * 🖥️  See my portfolio at [My Portfolio](http://www.sachindabas.works/)
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
 * 🚀  I'm currently working on [Semankit.com](http://semankit.com)
-* 🧠  I'm learning Advanced Javascript, C, Python
+* 🧠  I'm learning Advanced Javascript, C++
 * 🤝  I'm open to collaborating on AEC Projects
 * ⚡  I am currently working as a Research Assistant with my program chair; Prof. Dana Cupkova on Circular Economy of Materials for Built Environment where we are investigating LCA of building materials and using Additive Manufacturing to 3D print them at Mill 19 facility at CMU.
 
