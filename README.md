@@ -7,12 +7,11 @@ Graduate Student at Carnegie Mellon University
 I am currently pursuing a MS in Sustainable Design from Carnegie Mellon University and I hold a master's degree in Advanced computation from the Institute for Advanced Architecture of Catalonia (IAAC), Spain.
 
 * 🌍  I'm based in Pittsburgh
-* 🖥️  See my portfolio at [My Portfolio](http://www.sachindabas.works/)
+* 🖥️  See my computational design portfolio at [My Portfolio](http://www.sachindabas.works/)
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
-* 🚀  I'm currently working on a web3.0 project
-* 🧠  I'm learning Advanced Javascript, C#
-* 🤝  I'm open to collaborating on AEC Projects
-* ⚡  I am currently working as a Research Assistant with my program chair; Prof. Dana Cupkova on Circular Economy of Materials for Built Environment where we are investigating LCA of building materials and using Additive Manufacturing to 3D print them at Mill 19 facility at CMU.
+* 🚀  I'm currently working on UI/UX Projects
+* 🧠  I'm learning Advanced Javascript
+* 🤝  I'm open to collaborating on projects
 
 <a href="https://www.github.com/sachin-dabas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sachin-dabas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
