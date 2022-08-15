@@ -9,8 +9,8 @@ I am currently pursuing a MS in Sustainable Design from Carnegie Mellon Universi
 * 🌍  I'm based in Pittsburgh
 * 🖥️  See my computational design portfolio at [My Portfolio](http://www.sachindabas.works/)
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
-* 🚀  I'm currently working on UI/UX Projects
-* 🧠  I'm learning Advanced Javascript
+<!-- * 🚀  I'm currently working on UI/UX Projects -->
+<!-- * 🧠  I'm learning Advanced Javascript -->
 * 🤝  I'm open to collaborating on projects
 
 <a href="https://www.github.com/sachin-dabas" target="_blank" rel="noreferrer"><img
