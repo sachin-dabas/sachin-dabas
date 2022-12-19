@@ -7,7 +7,6 @@ Graduate Student at Carnegie Mellon University
 I am currently pursuing a MS in Sustainable Design from Carnegie Mellon University and I hold a master's degree in Advanced computation from the Institute for Advanced Architecture of Catalonia (IAAC), Spain.
 
 * 🌍  I'm based in Pittsburgh
-* 🖥️  See my computational design portfolio at [My Portfolio](http://www.sachindabas.works/)
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
 <!-- * 🚀  I'm currently working on UI/UX Projects -->
 <!-- * 🧠  I'm learning Advanced Javascript -->
