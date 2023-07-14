@@ -1,10 +1,8 @@
 Hi 👋 My name is Sachin Dabas
 =============================
 
-Graduate Student at Carnegie Mellon University
+Graduate from Carnegie Mellon University
 ----------------------------------------------
-
-I am currently pursuing a MS in Sustainable Design from Carnegie Mellon University and I hold a master's degree in Advanced computation from the Institute for Advanced Architecture of Catalonia (IAAC), Spain.
 
 * 🌍  I'm based in Pittsburgh
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
