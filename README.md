@@ -8,7 +8,7 @@ Graduate from Carnegie Mellon University
 * ✉️  You can contact me at [sdabas@andrew.cmu.edu](mailto:sdabas@andrew.cmu.edu)
 <!-- * 🚀  I'm currently working on UI/UX Projects -->
 <!-- * 🧠  I'm learning Advanced Javascript -->
-* 🤝  I'm open to collaborating on projects
+<!-- * 🤝  I'm open to collaborating on projects -- >
 
 <a href="https://www.github.com/sachin-dabas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sachin-dabas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
